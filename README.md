@@ -1,15 +1,13 @@
-Name:Niyonkuru Valens _
-ID:25097 _
-group:E1(Tuesday)_
-Description of project: Develope UI of SignIn_page,SignUp_page and complete working Calculater   by using flutter
----------------------------------------------------------------------------------------------------------------------
-menu
-![menu](https://github.com/valensniyonkuru/mobile-programing/assets/122721666/c6e230fa-4fd4-4eea-8e25-5575aa1d2170)
-SignIn_page
-![signin](https://github.com/valensniyonkuru/mobile-programing/assets/122721666/3c7b4b96-8a9b-41af-a1ae-4636e7004ac8)
-SignUp_page
+Name:MBAI AOUSSEM DJITA
+ID:24793
+Assignment #4. Working with APIs & Content Providers.
 
-![signup](https://github.com/valensniyonkuru/mobile-programing/assets/122721666/c968f379-b330-4d24-b175-4e1c2df22933)
+SignUp_page
+![WhatsApp Image 2024-07-09 at 19 39 42_a066a493](https://github.com/leonnel235/Assignments-IV/assets/172814133/eea18ef7-5127-406a-945d-991deb2a5109)
+
+![WhatsApp Image 2024-07-09 at 19 39 43_f0e5751a](https://github.com/leonnel235/Assignments-IV/assets/172814133/58ad82dd-34a9-4c48-aeef-c3cb44d89a65)
+
 Calculater
-![calculater](https://github.com/valensniyonkuru/mobile-programing/assets/122721666/d69b8514-bef8-46d7-8122-4bd8ff5c18d1)
+![image](https://github.com/leonnel235/Assignments-IV/assets/172814133/32b351ae-b35b-4fa0-b341-d9e4a1db5b8c)
+
 
