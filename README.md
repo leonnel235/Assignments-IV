@@ -8,5 +8,7 @@ Signup_page
 ![WhatsApp Image 2024-07-09 at 19 39 43_f0e5751a](https://github.com/leonnel235/Assignments-IV/assets/172814133/58ad82dd-34a9-4c48-aeef-c3cb44d89a65)
 
 ![image](https://github.com/leonnel235/Assignments-IV/assets/172814133/32b351ae-b35b-4fa0-b341-d9e4a1db5b8c)
+![image](https://github.com/user-attachments/assets/d7604128-7f09-449b-8520-655db08a5cfa)
+
 
 
